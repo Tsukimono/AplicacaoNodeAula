@@ -1,0 +1,19 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "aplicacao pratica",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsukimono/AplicacaoNodeAula.git"
+  },
+  "author": "Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsukimono/AplicacaoNodeAula/issues"
+  },
+  "homepage": "https://github.com/Tsukimono/AplicacaoNodeAula#readme"
+}
