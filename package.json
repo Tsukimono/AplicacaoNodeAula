@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tsukimono/AplicacaoNodeAula/issues"
   },
-  "homepage": "https://github.com/Tsukimono/AplicacaoNodeAula#readme"
+  "homepage": "https://github.com/Tsukimono/AplicacaoNodeAula#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
